@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm yuba-k 👋
 
 <!--
 **yuba-k/yuba-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
