@@ -1,6 +1,10 @@
 ## Hi there, I'm yuba-k 👋
-![](https://github-readme-stats.vercel.app/api?username=yuba-k&count_private=true&show_icons=true&theme=dracula)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yuba-k&layout=compact&theme=dracula)
+## Stats
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yuba-k&theme=gruvbox)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yuba-k&theme=gruvbox)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yuba-k&theme=gruvbox)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yuba-k&theme=gruvbox)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yuba-k&theme=gruvbox&utcOffset=9)
 <!--
 **yuba-k/yuba-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
