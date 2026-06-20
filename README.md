@@ -1,10 +1,17 @@
 ## Hi there, I'm yuba-k 👋
-## Stats
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yuba-k&theme=gruvbox)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yuba-k&theme=gruvbox)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yuba-k&theme=gruvbox)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yuba-k&theme=gruvbox)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yuba-k&theme=gruvbox&utcOffset=9)
+## Stats<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yuba-k&theme=gruvbox" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yuba-k&theme=gruvbox" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yuba-k&theme=gruvbox" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yuba-k&theme=gruvbox" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yuba-k&theme=gruvbox&utcOffset=9" width="49%" />
+</p>
 <!--
 **yuba-k/yuba-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
