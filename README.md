@@ -1,5 +1,6 @@
 ## Hi there, I'm yuba-k 👋
 ## Stats<p align="center">
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=yuba-k&theme=github_dark)](https://github.com/stats-organization/github-stats-extended)
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yuba-k&theme=github_dark" />
 </p>
 
